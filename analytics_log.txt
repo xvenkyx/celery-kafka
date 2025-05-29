@@ -1,0 +1,6 @@
+[2025-05-27T17:49:20.689435] New user registered: Test User (test@abc.com)
+[2025-05-27T17:49:20.690439] New user registered: Test User (test@abc.com)
+[2025-05-27T17:49:20.690439] New user registered: Test User (test@abc.com)
+[2025-05-27T17:51:01.482217] New user registered: Venky (venky@abc.com)
+[2025-05-27T18:33:51.271675] New user registered: Meha (meha@abc.com)
+[2025-05-27T18:45:53.911600] New user registered: meha1 (meha1@abc.com)

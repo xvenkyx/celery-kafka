@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Pytest and coverage
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+.env.*
+
+# FastAPI specific
+instance/
+*.db
+*.sqlite3
+
+# Uvicorn logs (if enabled)
+*.log
+
+# MyPy
+.mypy_cache/
+
+# pyproject.toml based caches
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat
